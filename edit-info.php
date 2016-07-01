@@ -131,11 +131,11 @@
 				<label>Email *</label>
 				<input name="email" type="text" class="form-control" placeholder="youremail@domain.com" value="<?php echo $data['email'];?>">
 				<br>
-				<label>Fb</label>
-				<input name="fb" type="text" class="form-control" placeholder="fb.com/..." value="<?php echo $data['fb'];?>">
+				<label>Google +</label>
+				<input name="fb" type="text" class="form-control" placeholder="https://" value="<?php echo $data['fb'];?>">
 				<br>
 				<label>LinkedIn</label>
-				<input name="linkedin" type="text" class="form-control" placeholder="linkedin.com/...." value="<?php echo $data['linkedin'];?>">
+				<input name="linkedin" type="text" class="form-control" placeholder="https://" value="<?php echo $data['linkedin'];?>">
 				<br>
 				<label>About Yourself</label>
 				<textarea name="about" class="form-control"  placeholder="I am Thinker, Inventer, Game Changer, Creator Etc."><?php echo $data['about']; ?></textarea>

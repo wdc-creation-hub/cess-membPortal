@@ -107,11 +107,11 @@
 				<label>Email *</label>
 				<input name="email" type="text" class="form-control" placeholder="youremail@domain.com">
 				<br>
-				<label>Fb</label>
-				<input name="fb" type="text" class="form-control" placeholder="fb.com/...">
+				<label>Google +</label>
+				<input name="fb" type="text" class="form-control" placeholder="https://">
 				<br>
 				<label>LinkedIn</label>
-				<input name="linkedin" type="text" class="form-control" placeholder="linkedin.com/....">
+				<input name="linkedin" type="text" class="form-control" placeholder="https://">
 				<br>
 				<label>About Yourself</label>
 				<textarea name="about" class="form-control" placeholder="I am Thinker, Inventer, Game Changer, Creator Etc."></textarea>
